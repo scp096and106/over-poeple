@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+}
+
+body {
+  padding: 0rem 5rem 0rem 5rem;
+}
+
+.header-box {
+  padding: 0;
+  border: 2px solid red;
+}
+
+.image-box {
+  height: 200px;
+  overflow: hidden;
+}
+
+.section {
+  border: 2px solid blue;
+  margin: 1rem 0 1rem 0;
+}
+
+.section-left {
+  background: yellow;
+  float: left;
+  width: 75%;
+  margin: 1rem 0 1rem 0;
+}
+
+.section-right {
+  float: right;
+  width: 25%;
+  overflow: hidden;
+  height: 136px;
+  padding-top: 1rem;
+}
